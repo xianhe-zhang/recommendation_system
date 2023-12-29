@@ -15,13 +15,7 @@
   - 特征处理相关代码
 - flink-realtime-feature
 
-- 
-首先大家将本仓库中的`start.sh`文件下载到本地，然后依次在`start.sh`脚本同目录下clone下面几个仓库：
-- dataset
-- recall-service
-- rank-service
-- api-service
-- web-service
+
 
 最终的项目目录结构如下：
 ```
